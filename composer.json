@@ -1,0 +1,13 @@
+{
+    "name": "vendor/dota2-api-plus",
+    "description": "Description of project dota2-api-plus.",
+    "authors": [
+        {
+            "name": "Roozbeh Baabakaan",
+            "email": "baabakaan@remake.ir"
+        }
+    ],
+    "require": {
+        "fabpot/goutte": "dev-master"
+    }
+}
