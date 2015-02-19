@@ -1,4 +1,4 @@
-{
+{   
     "name": "vendor/dota2-api-plus",
     "description": "Description of project dota2-api-plus.",
     "authors": [
@@ -9,5 +9,11 @@
     ],
     "require": {
         "fabpot/goutte": "dev-master"
+    },
+    "autoload": {
+        "psr-4": {
+            "engine\\": "engine/"
+            }
     }
+    
 }
